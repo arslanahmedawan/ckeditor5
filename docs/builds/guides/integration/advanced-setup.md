@@ -5,7 +5,7 @@ order: 60
 
 # Advanced setup
 
-The {@link builds/guides/integration/installation Installation} guide describes the easiest ways to run CKEditor builds in your project and the {@link builds/guides/development/custom-builds Custom builds} guide explains how to add or remove features from the build or change webpack configuration.
+Thee {@link builds/guides/integration/installation Installation} guide describes the easiest ways to run CKEditor builds in your project and the {@link builds/guides/development/custom-builds Custom builds} guide explains how to add or remove features from the build or change webpack configuration.
 
 In this guide, we would like to show you ways to closer integrate CKEditor 5 with your application. Thanks to that, you will be able to optimize the bundling process of your project and customize the builds in a more convenient way.
 
